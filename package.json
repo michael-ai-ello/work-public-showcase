@@ -1,9 +1,0 @@
-{
-  "name": "work-public-showcase",
-  "private": true,
-  "description": "Public portfolio catalog for private project work",
-  "type": "module",
-  "scripts": {
-    "generate": "node scripts/generate-portfolio.mjs"
-  }
-}

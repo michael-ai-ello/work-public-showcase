@@ -4,3 +4,9 @@ Thumbs.db
 *.log
 .env
 .env.*
+
+# Dev-only — generate portfolio locally; not published
+scripts/
+package.json
+portfolio.config.json
+adjust.txt
