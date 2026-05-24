@@ -8,7 +8,15 @@ Telephony-agnostic call analytics POC: normalized SQL data, ASP.NET Core API, Bl
 
 ## Inspiration
 
-Demonstrate provider-agnostic ingestion adapters and unified analytics filters across charts and maps.
+After shipping Avaya-integrated sales call analytics in manufacturing production, I wanted a generic telephony POC—open adapter style, not Avaya-only—with GIS/map views for territory, call-area informatics, and cross-sector analytics.
+
+## Current State / Phase
+
+Working POC with mock and file-based ingestion plus regional map dashboards.
+
+## Future Directions
+
+Additional provider adapters and production-grade ingestion hardening per target enterprise.
 
 ## Stack Summary
 

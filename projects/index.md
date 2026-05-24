@@ -4,9 +4,9 @@ Sanitized case studies for private repositories. Source code, credentials, and i
 
 ## Production & Client Applications
 
-- **[SwimSwam — Production Stack](./swimswam-prod.md)** — Production deployment repository for a large swim-media platform: JavaScript frontend, C# backend, and Postgres (Supabase) migrations.
-- **[Aiello Roofing — Production](./aiello-roofing-prod.md)** — Production-ready roofing business application: ASP.
-- **[SwimSwam — Development](./swimswamzzz-dev.md)** — Active development workspace for the SwimSwam platform with frontend, backend, and utility tooling.
+- **[SwimSwam — Production Stack](./swimswam-prod.md)** — Production deployment repository for high-school swim team management: JavaScript frontend, C# backend, and Postgres (Supabase) migrations.
+- **[Aiello Roofing — Production](./aiello-roofing-prod.md)** — Production roofing business showcase: ASP.
+- **[SwimSwam — Development](./swimswamzzz-dev.md)** — Active development workspace for swim team management software with frontend, backend, and utility tooling.
 
 ## GIS & Geospatial Systems
 
@@ -36,8 +36,4 @@ Sanitized case studies for private repositories. Source code, credentials, and i
 
 - **[Excel SQL — Blazor Data Tooling POC](./excel-sql-work.md)** — Blazor Server POC bridging Excel workbooks and SQL Server: connectivity checks, DDL generation, scripted apply, and read-only SQL templates.
 - **[SSMS Work — SQL Server Feature Explorer](./ssms-work.md)** — SQL Server feature explorer POC: minimal APIs + Dapper + Blazor Interactive Server shell covering performance, security, and replication narratives.
-
-## Planning & Concept Work
-
-- **[OurPool — Subscription Tier Concept](./ourpool.md)** — Planning and specification workspace for a pool-service subscription product: tier matrix, master specification, and HTML drafts.
 

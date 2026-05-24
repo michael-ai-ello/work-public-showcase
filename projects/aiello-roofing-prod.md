@@ -2,13 +2,23 @@
 
 > **Repository:** `aiello-roofing-prod` · **Visibility:** private · **Category:** Production & Client Applications
 
-Production-ready roofing business application: ASP.NET Core API, React + Vite + Mapbox client, and Supabase Postgres migrations.
+**Live site:** [aielloroofing.online](https://aielloroofing.online)
+
+Production roofing business showcase: ASP.NET Core API, React + Vite + Mapbox client, and Supabase Postgres migrations. Live at aielloroofing.online.
 
 ---
 
 ## Inspiration
 
-Minimal production repo cloned on a VM with Nginx, systemd, and git-pull deploy workflow.
+Built for a family member's roofing company to supplement or replace their prior site—map-based project showcase plus editor login to create location-based jobs, a capability the old website lacked. First project I hosted on the public internet (VM, Nginx, SSL) rather than only on my machine.
+
+## Current State / Phase
+
+Production-hosted client application with map UI and content management for project showcases.
+
+## Future Directions
+
+Ongoing content and feature polish as the business needs evolve.
 
 ## Stack Summary
 

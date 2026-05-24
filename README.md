@@ -1,18 +1,25 @@
 # Work Public Showcase
 
-Full-stack engineer — .NET, geospatial systems, SQL Server, and edge AI
+Full-stack engineer — operational web apps, GIS, SQL Server, and edge AI
 
 ---
 
 ## About
 
-I build production web applications, enterprise POCs, and architecture-forward demos across healthcare IT, utilities, GIS, and embedded AI. My work favors Clean Architecture, stored-procedure-backed SQL Server, Mapbox-driven geospatial UIs, and pragmatic DevOps on Linux VMs and edge devices.
+I develop web applications that support real operations—healthcare IT field workflows, utility and telephony informatics, facility asset mapping, CMS-style content tools, and edge AI on Jetson hardware. Most repositories here are deliberate POCs and learning sandboxes: they demonstrate how I structure full-stack work, integrate alongside real job responsibilities when possible, and ramp quickly on domain-specific tools. I treat enterprise and client systems with respect for standards, security, and integration paths I would learn on the job rather than guess in a public repo.
 
 This repository is a **public technical portfolio and project catalog**. It summarizes private work using architecture notes, stack summaries, and sanitized directory overviews — without publishing proprietary source, secrets, or internal configuration.
 
 **GitHub:** [@michael-ai-ello](https://github.com/michael-ai-ello)
 
 ---
+
+## How These Projects Are Structured
+
+- POC-first repos that prove aptitude without pretending to replace an organization's production standards
+- Operational context over toy demos—healthcare deployment prep, call analytics, floor-plan asset tracking, utility GIS shells
+- Fast, structured learning—reference codebases (SSMS explorer, CMS basics) I can extend when a real scenario appears
+- Honest phase labels—what runs today, what was side-tested vs officially integrated, and what would come next with proper access
 
 ## Technologies Overview
 
@@ -25,7 +32,7 @@ This repository is a **public technical portfolio and project catalog**. It summ
 | **Edge / AI** | Jetson Orin Nano, Ollama, multimodal LLMs, GStreamer camera pipelines |
 | **DevOps** | Nginx, systemd, PowerShell/bash scripts, GitHub Actions, env-template deploys |
 
-**Languages across projects:** C#, CSS, Documentation-first, Go, HTML, JavaScript, Markdown, PLpgSQL, PowerShell, Python, Shell, TSQL, TypeScript
+**Languages across projects:** C#, CSS, Documentation-first, Go, HTML, JavaScript, PLpgSQL, PowerShell, Python, Shell, TSQL, TypeScript
 
 **Representative libraries:** Next.js, Mapbox GL JS, deck.gl, Zustand, TanStack React Query, .NET Web API, Dapper, Node frontend toolchain, ASP.NET Core API, Supabase/Postgres, React, Vite, Mapbox GL, ASP.NET Core, Supabase JS client, Node frontend, Postgres/Supabase patterns, MediatR, FluentValidation, Dapper/ADO.NET
 
@@ -37,26 +44,34 @@ This repository is a **public technical portfolio and project catalog**. It summ
 
 Department of Transportation proof-of-concept: USA Mapbox landing page, per-state database routing, and New Hampshire as the first fully connected state module.
 
+*Early POC with NH as the first connected state module; national shell and per-state routing pattern in place.*
+
 **Stack:** TypeScript, C#, TSQL · Next.js, Mapbox GL JS, deck.gl
 
 
 ### [SwimSwam — Production Stack](./projects/swimswam-prod.md)
 
-Production deployment repository for a large swim-media platform: JavaScript frontend, C# backend, and Postgres (Supabase) migrations.
+Production deployment repository for high-school swim team management: JavaScript frontend, C# backend, and Postgres (Supabase) migrations.
+
+*Served its purpose in production for one season; no longer hosted.*
 
 **Stack:** JavaScript, C#, HTML · Node frontend toolchain, ASP.NET Core API, Supabase/Postgres
 
 
 ### [Aiello Roofing — Production](./projects/aiello-roofing-prod.md)
 
-Production-ready roofing business application: ASP.NET Core API, React + Vite + Mapbox client, and Supabase Postgres migrations.
+Production roofing business showcase: ASP.NET Core API, React + Vite + Mapbox client, and Supabase Postgres migrations. Live at aielloroofing.online.
 
-**Stack:** TypeScript, C#, CSS · React, Vite, Mapbox GL
+*Production-hosted client application with map UI and content management for project showcases.*
+
+**Stack:** TypeScript, C#, CSS · React, Vite, Mapbox GL · [Live](https://aielloroofing.online)
 
 
 ### [HHC Patient Education — Healthcare POC](./projects/HHC-Patient-Education-POC.md)
 
 Patient education platform POC: ASP.NET Core MVC, interactive modules, quizzes, visual learning, and optional Epic/SMART integration path.
+
+*Side-development POC with synthetic data; not tied to contract workflows or live EHR feeds.*
 
 **Stack:** C#, TSQL, HTML · ASP.NET Core MVC, Clean Architecture, Dapper
 
@@ -65,12 +80,16 @@ Patient education platform POC: ASP.NET Core MVC, interactive modules, quizzes, 
 
 Offline-first Jetson Orin Nano chat UI with local Ollama, FastAPI proxy, CSI camera snapshots, and multimodal vision models.
 
+*Local LLM inference and photo upload/analysis work on device; companion camera bring-up repo documents hardware setup.*
+
 **Stack:** Python, TypeScript, Shell · FastAPI, React, Vite
 
 
 ### [Water Work — Utility Geospatial Digital Twin](./projects/water-work.md)
 
 Water infrastructure digital-twin POC: .NET API, SQL Server stored procedures, Mapbox static UI, spatial queries and network tracing.
+
+*Solid architectural foundation; core flows work but the UI and polish are not finished.*
 
 **Stack:** C#, TSQL, JavaScript · ASP.NET Core, MediatR, FluentValidation
 
@@ -154,13 +173,6 @@ Full case-study index: **[projects/index.md](./projects/index.md)**
 
 - [Excel SQL — Blazor Data Tooling POC](./projects/excel-sql-work.md)
 - [SSMS Work — SQL Server Feature Explorer](./projects/ssms-work.md)
-
-</details>
-
-<details>
-<summary><strong>Planning & Concept Work</strong> (1)</summary>
-
-- [OurPool — Subscription Tier Concept](./projects/ourpool.md)
 
 </details>
 

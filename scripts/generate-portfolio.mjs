@@ -28,10 +28,18 @@ function categoryLabel(id) {
 
 function renderProjectPage(p) {
   const dirs = sanitizeDirectoryOverview(p.directoryOverview);
+  const liveLine = p.liveUrl ? `\n**Live site:** [${p.liveUrl.replace(/^https?:\/\//, '')}](${p.liveUrl})\n` : '';
+  const currentState = p.currentState
+    ? `\n## Current State / Phase\n\n${p.currentState}\n`
+    : '';
+  const futureDirections = p.futureDirections
+    ? `\n## Future Directions\n\n${p.futureDirections}\n`
+    : '';
+
   return `# ${p.title}
 
 > **Repository:** \`${p.repo}\` · **Visibility:** ${p.visibility} · **Category:** ${categoryLabel(p.category)}
-
+${liveLine}
 ${p.description}
 
 ---
@@ -39,7 +47,7 @@ ${p.description}
 ## Inspiration
 
 ${p.inspiration}
-
+${currentState}${futureDirections}
 ## Stack Summary
 
 | Area | Details |
@@ -103,6 +111,13 @@ Sanitized case studies for private repositories. Source code, credentials, and i
 
 function renderRootReadme() {
   const { profile } = config;
+  const philosophySection = profile.philosophy?.length
+    ? `## How These Projects Are Structured
+
+${profile.philosophy.map((line) => `- ${line}`).join('\n')}
+
+`
+    : '';
   const featured = config.featured
     .map((slug) => config.projects.find((p) => p.slug === slug))
     .filter(Boolean);
@@ -112,13 +127,17 @@ function renderRootReadme() {
 
   let featuredSection = featured
     .map(
-      (p) => `### [${p.title}](./projects/${p.slug}.md)
+      (p) => {
+        const phase = p.currentState ? `\n\n*${p.currentState.split('.')[0]}.*` : '';
+        const live = p.liveUrl ? ` · [Live](${p.liveUrl})` : '';
+        return `### [${p.title}](./projects/${p.slug}.md)
 
-${p.description}
+${p.description}${phase}
 
-**Stack:** ${p.languages.slice(0, 3).join(', ')} · ${p.frameworks.slice(0, 3).join(', ')}
+**Stack:** ${p.languages.slice(0, 3).join(', ')} · ${p.frameworks.slice(0, 3).join(', ')}${live}
 
-`
+`;
+      }
     )
     .join('\n');
 
@@ -149,7 +168,7 @@ This repository is a **public technical portfolio and project catalog**. It summ
 
 ---
 
-## Technologies Overview
+${philosophySection}## Technologies Overview
 
 | Domain | Tools & patterns |
 |--------|------------------|

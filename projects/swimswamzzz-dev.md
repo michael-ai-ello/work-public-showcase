@@ -2,13 +2,21 @@
 
 > **Repository:** `swimswamzzz-dev` · **Visibility:** private · **Category:** Production & Client Applications
 
-Active development workspace for the SwimSwam platform with frontend, backend, and utility tooling.
+Active development workspace for swim team management software with frontend, backend, and utility tooling.
 
 ---
 
 ## Inspiration
 
-Keep experimentation and feature work isolated from the production deploy repository.
+Isolate experimentation and next-season features from the production deploy repository used during the coached team's test run.
+
+## Current State / Phase
+
+Development workspace for future iterations after the production season archive.
+
+## Future Directions
+
+Carry forward lessons from production feedback into refined team-management features.
 
 ## Stack Summary
 

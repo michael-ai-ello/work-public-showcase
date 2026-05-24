@@ -8,7 +8,15 @@ Map-centric application with Go backend service, JavaScript frontend, and databa
 
 ## Inspiration
 
-Explore a polyglot stack (Go + Node frontend) for map-driven automation and data visualization.
+A maturing awareness of government, law-enforcement, and military targeting systems—and a Palantir internship application—led me to scaffold a POC in Palantir-aligned languages (Go, TypeScript) to visualize operations-style geospatial workflows.
+
+## Current State / Phase
+
+Infrastructure and stack alignment in place; functionality is not fully extensive or polished.
+
+## Future Directions
+
+Expand operational workflows, data linking, and production-hardening only within appropriate enterprise contexts.
 
 ## Stack Summary
 

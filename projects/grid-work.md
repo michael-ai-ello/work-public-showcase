@@ -8,7 +8,15 @@ Grid IoT proof-of-concept: Blazor hybrid app, SQL Server telemetry, Mapbox opera
 
 ## Inspiration
 
-Sketch how a utility operations dashboard could combine GIS, telemetry, and role-based access in a learning-oriented codebase.
+While pursuing an IT software associate role at a northeastern utilities energy company, I built a POC to understand what a grid operator's application might include—GIS UI, energy informatics, and relationships between telemetry database objects.
+
+## Current State / Phase
+
+Functional learning codebase; in retrospect skewed toward an electrical-engineering overview more than a client-facing utility operations portal.
+
+## Future Directions
+
+Reframe views toward operator and customer-facing workflows; tighten integration narratives for real utility standards.
 
 ## Stack Summary
 

@@ -8,7 +8,15 @@ Patient education platform POC: ASP.NET Core MVC, interactive modules, quizzes, 
 
 ## Inspiration
 
-Inform a future EHR-integrated patient education product with synthetic demo data and clinical terminology hooks.
+Side project alongside a healthcare IT contract—motivated by patient rights and informed consent. Envisioned quiz-style education synced with real charts and Epic data to improve the patient experience around treatments, procedures, and medications.
+
+## Current State / Phase
+
+Side-development POC with synthetic data; not tied to contract workflows or live EHR feeds.
+
+## Future Directions
+
+Epic/FHIR and chart-backed assignments—the stated next step if the concept were pursued inside a health system.
 
 ## Stack Summary
 

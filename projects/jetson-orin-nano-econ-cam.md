@@ -8,7 +8,15 @@ Hardware bring-up documentation for Jetson Orin Nano with e-con e-CAM86 camera o
 
 ## Inspiration
 
-Isolate SD flashing, driver install, and GStreamer verification from application code.
+Prerequisite hardware path for the local LLM device—document JetPack flash, e-CAM86 drivers, and GStreamer verification separately from application code.
+
+## Current State / Phase
+
+Documented bring-up workflow; large binaries stay local under dev-resources.
+
+## Future Directions
+
+Keep version matrix current as JetPack and camera packages update.
 
 ## Stack Summary
 

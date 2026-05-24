@@ -8,7 +8,15 @@ Blazor Server POC bridging Excel workbooks and SQL Server: connectivity checks, 
 
 ## Inspiration
 
-Explore safe, allowlisted filesystem access and versioned customization snapshots for spreadsheet-driven schema workflows.
+After a year or two of work experience, I noticed how often Excel and SQL coexist in business processes and wanted a simple POC to upload a sheet, map rows and columns, and visualize conversion toward SQL-friendly structures for web app development.
+
+## Current State / Phase
+
+Works for straightforward workbooks with a clear Excel-to-SQL visualization path; not fully polished for complex sheets.
+
+## Future Directions
+
+Broader Excel edge cases, richer mapping UI, and safer production import guardrails.
 
 ## Stack Summary
 

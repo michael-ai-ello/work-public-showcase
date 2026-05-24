@@ -8,7 +8,15 @@ Offline-first Jetson Orin Nano chat UI with local Ollama, FastAPI proxy, CSI cam
 
 ## Inspiration
 
-Run vision-capable LLMs entirely on edge hardware with no cloud API dependency.
+Step up from Raspberry Pi and Arduino tinkering to a Jetson dev kit for serious edge/IoT work—first app was a fully offline local LLM with camera photo analysis (half-serious survival-scenario motivation, wholly serious learning goals).
+
+## Current State / Phase
+
+Local LLM inference and photo upload/analysis work on device; companion camera bring-up repo documents hardware setup.
+
+## Future Directions
+
+RAG-style context, conversational memory, and persisted chat sessions for more context-aware dialogue.
 
 ## Stack Summary
 

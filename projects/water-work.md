@@ -8,7 +8,15 @@ Water infrastructure digital-twin POC: .NET API, SQL Server stored procedures, M
 
 ## Inspiration
 
-Showcase DDD layering and geospatial domain modeling for utility operators without claiming production readiness.
+Growing interest in environmental engineering and the ubiquity of water-utility operations—parallel to my electrical grid learning POC—to visualize water informatics in a GIS-style UI with related database nodes and objects.
+
+## Current State / Phase
+
+Solid architectural foundation; core flows work but the UI and polish are not finished.
+
+## Future Directions
+
+Refine operator-facing views, polish map layers, and deepen domain-specific tracing and reporting.
 
 ## Stack Summary
 

@@ -2,13 +2,21 @@
 
 > **Repository:** `swimswam-prod` · **Visibility:** private · **Category:** Production & Client Applications
 
-Production deployment repository for a large swim-media platform: JavaScript frontend, C# backend, and Postgres (Supabase) migrations.
+Production deployment repository for high-school swim team management: JavaScript frontend, C# backend, and Postgres (Supabase) migrations.
 
 ---
 
 ## Inspiration
 
-Ship a maintainable production slice separate from active development, with deployment docs and environment templates only.
+As an assistant swim coach with 10+ years of competitive swimming, I applied web development skills to team management—schedules, meets, rosters, and related workflows—and hosted a live test run for the team I coached.
+
+## Current State / Phase
+
+Served its purpose in production for one season; no longer hosted. Informed real user feedback and in-production iteration experience.
+
+## Future Directions
+
+Refine and redeploy for a future coaching season or fork patterns into a next-version dev workspace.
 
 ## Stack Summary
 

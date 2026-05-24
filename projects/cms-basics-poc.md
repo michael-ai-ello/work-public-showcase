@@ -8,7 +8,15 @@ Generic CMS POC with separate Authoring and Delivery microservices, React SPAs, 
 
 ## Inspiration
 
-Prove API-first content separation where authors control theme tokens consumed by the public delivery app.
+Intentionally generic learning project to understand CMS-style interfaces—how client-facing users edit and publish web content without tying the POC to one company's product.
+
+## Current State / Phase
+
+Delivers intended authoring vs delivery separation and theme editing; suitable as a teaching/reference codebase.
+
+## Future Directions
+
+Richer content models, workflow approvals, and hosting patterns for a real tenant.
 
 ## Stack Summary
 

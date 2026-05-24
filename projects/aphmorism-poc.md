@@ -8,7 +8,15 @@ Local-library aphmorism POC: LLM-assisted generation grounded in leader-verified
 
 ## Inspiration
 
-Complement book clubs with short aphmoristic expressions and lineage tracking—not in-app debate threads.
+Sparked by a library IT/database admin job application and an interest in philosophy—envisioned a supplemental tool for book clubs to rate AI-generated aphmorisms that synthesize or reconcile quotes from different authors, with humans judging quality rather than replacing live debate.
+
+## Current State / Phase
+
+Core scaffolding and data flows work; earlier phase—OpenAI key integration and live generation testing still outstanding.
+
+## Future Directions
+
+Wire LLM provider configuration, run patron rating sessions end-to-end, and polish library-leader approval workflows.
 
 ## Stack Summary
 

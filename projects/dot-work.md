@@ -8,7 +8,15 @@ Department of Transportation proof-of-concept: USA Mapbox landing page, per-stat
 
 ## Inspiration
 
-Demonstrate how a national DOT/GIS platform could scale state-by-state with isolated databases, token-gated maps, and a consistent UX shell.
+Curiosity about real-world GIS led me to DOT-based application systems and the wide variation across U.S. states. I scaffolded a small, open-ended POC to learn simple basics without assuming any one state's GIS approach—while developing in New Hampshire and exploring seasonal DOT/GIS internship opportunities.
+
+## Current State / Phase
+
+Early POC with NH as the first connected state module; national shell and per-state routing pattern in place.
+
+## Future Directions
+
+Deepen state-specific modules as domain requirements become clear; align with real DOT data and integration standards when working inside an agency context.
 
 ## Stack Summary
 

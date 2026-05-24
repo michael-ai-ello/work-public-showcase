@@ -8,7 +8,15 @@ POC for tracking assets on uploaded floor-plan maps with hierarchical Region →
 
 ## Inspiration
 
-Model facility asset management on custom map images with typed asset parameters.
+Inspired by a floor-plan asset tool used during a healthcare IT contract—draggable icons on building images correlating device locations. I rebuilt a generic version for enterprises with varied asset types, open labels for device fields, uploadable floor plans, and toggles to show all assets or a selected subset.
+
+## Current State / Phase
+
+Works as intended for flexible facility and asset modeling in a workstation POC.
+
+## Future Directions
+
+Auth, enterprise RBAC, and connector patterns if adopted inside a specific organization.
 
 ## Stack Summary
 

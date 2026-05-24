@@ -8,7 +8,15 @@ SQL Server feature explorer POC: minimal APIs + Dapper + Blazor Interactive Serv
 
 ## Inspiration
 
-Learn and demonstrate SQL Server capabilities through a structured explorer UI backed by real connectivity.
+SQL Server Management Studio is pervasive, but I had only used tables and stored procedures—so I built a generic explorer POC to exercise other SSMS-accessible features and keep a reference codebase for future on-the-job scenarios.
+
+## Current State / Phase
+
+Features appear to work as intended; I am still building intuition for when each capability matters in real deployments.
+
+## Future Directions
+
+Deepen scenario-based docs tied to actual enterprise DBA and developer workflows.
 
 ## Stack Summary
 

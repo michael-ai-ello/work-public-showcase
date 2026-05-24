@@ -8,7 +8,15 @@ Native WPF desktop for field operations: Excel import coordination grid, AD tool
 
 ## Inspiration
 
-Replace ad-hoc field scripts with a tier-2 AD-gated desktop shell and SQL-backed workflow state.
+Built during a nine-month healthcare IT contract to organize laptop and asset deployment prep across regions, departments, and software profiles—replacing ad-hoc coordination with a structured desktop workflow.
+
+## Current State / Phase
+
+Ran successfully alongside real tier-2 domain workflows and collaborative scenarios; proved viability as a side test but was not officially integrated into enterprise release processes.
+
+## Future Directions
+
+Formal packaging, Authenticode signing, and IT-approved deployment paths if brought into production change control.
 
 ## Stack Summary
 
