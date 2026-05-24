@@ -63,4 +63,4 @@ docs/ — full specification/
 
 ---
 
-[← Back to portfolio](../README.md#project-catalog) · [All projects](./index.md)
+[← Back to portfolio](../README.md#projects) · [All projects](./index.md)

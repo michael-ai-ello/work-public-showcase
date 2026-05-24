@@ -21,13 +21,24 @@
     { "id": "platform", "label": "Platform, CMS & Content" },
     { "id": "data", "label": "Data Engineering & SQL Tooling" }
   ],
-  "featured": [
+  "readmeProjectOrder": [
     "dot-work",
     "swimswam-prod",
     "aiello-roofing-prod",
+    "swimswamzzz-dev",
+    "water-work",
+    "grid-work",
+    "mapbot-dev",
+    "map-asset-work",
     "HHC-Patient-Education-POC",
+    "HHC-IT-FieldServices-Work-POC",
+    "telephony-work",
+    "cms-basics-poc",
+    "aphmorism-poc",
     "jetson-orin-nano-local-llm-device",
-    "water-work"
+    "jetson-orin-nano-econ-cam",
+    "excel-sql-work",
+    "ssms-work"
   ],
   "projects": [
     {

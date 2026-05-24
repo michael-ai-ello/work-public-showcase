@@ -85,7 +85,7 @@ ${dirs.map((d) => d.endsWith('/') ? d : `${d}/`).join('\n')}
 
 ---
 
-[← Back to portfolio](../README.md#project-catalog) · [All projects](./index.md)
+[← Back to portfolio](../README.md#projects) · [All projects](./index.md)
 `;
 }
 
@@ -109,6 +109,15 @@ Sanitized case studies for private repositories. Source code, credentials, and i
   return body;
 }
 
+function projectsForReadme() {
+  const order = config.readmeProjectOrder;
+  if (order?.length) {
+    const bySlug = Object.fromEntries(config.projects.map((p) => [p.slug, p]));
+    return order.map((slug) => bySlug[slug]).filter(Boolean);
+  }
+  return config.projects;
+}
+
 function renderRootReadme() {
   const { profile } = config;
   const philosophySection = profile.philosophy?.length
@@ -118,39 +127,10 @@ ${profile.philosophy.map((line) => `- ${line}`).join('\n')}
 
 `
     : '';
-  const featured = config.featured
-    .map((slug) => config.projects.find((p) => p.slug === slug))
-    .filter(Boolean);
 
-  const allLangs = [...new Set(config.projects.flatMap((p) => p.languages))].sort();
-  const allFrameworks = [...new Set(config.projects.flatMap((p) => p.frameworks))].slice(0, 20);
-
-  let featuredSection = featured
-    .map(
-      (p) => {
-        const phase = p.currentState ? `\n\n*${p.currentState.split('.')[0]}.*` : '';
-        const live = p.liveUrl ? ` · [Live](${p.liveUrl})` : '';
-        return `### [${p.title}](./projects/${p.slug}.md)
-
-${p.description}${phase}
-
-**Stack:** ${p.languages.slice(0, 3).join(', ')} · ${p.frameworks.slice(0, 3).join(', ')}${live}
-
-`;
-      }
-    )
+  const projectLinks = projectsForReadme()
+    .map((p) => `- [${p.title}](./projects/${p.slug}.md)`)
     .join('\n');
-
-  let catalogSection = '';
-  for (const cat of config.categories) {
-    const items = config.projects.filter((p) => p.category === cat.id);
-    if (!items.length) continue;
-    catalogSection += `<details>\n<summary><strong>${cat.label}</strong> (${items.length})</summary>\n\n`;
-    for (const p of items) {
-      catalogSection += `- [${p.title}](./projects/${p.slug}.md)\n`;
-    }
-    catalogSection += '\n</details>\n\n';
-  }
 
   return `# Work Public Showcase
 
@@ -162,68 +142,15 @@ ${profile.headline}
 
 ${profile.bio}
 
-This repository is a **public technical portfolio and project catalog**. It summarizes private work using architecture notes, stack summaries, and sanitized directory overviews — without publishing proprietary source, secrets, or internal configuration.
+This repository is a **public technical portfolio**. It summarizes private work using architecture notes, stack summaries, and sanitized directory overviews — without publishing proprietary source, secrets, or internal configuration.
 
 **GitHub:** [${profile.github.replace('https://github.com/', '@')}](${profile.github})
 
 ---
 
-${philosophySection}## Technologies Overview
+${philosophySection}## Projects
 
-| Domain | Tools & patterns |
-|--------|------------------|
-| **Backend** | .NET 10, ASP.NET Core, WPF, FastAPI, Go services |
-| **Frontend** | React, Next.js, Blazor (Server + WASM), Vite, TypeScript |
-| **Data** | SQL Server (Dapper, stored procedures), Postgres/Supabase, EF Core (Identity/CMS) |
-| **GIS** | Mapbox GL JS, deck.gl, geospatial APIs, floor-plan asset models |
-| **Edge / AI** | Jetson Orin Nano, Ollama, multimodal LLMs, GStreamer camera pipelines |
-| **DevOps** | Nginx, systemd, PowerShell/bash scripts, GitHub Actions, env-template deploys |
-
-**Languages across projects:** ${allLangs.join(', ')}
-
-**Representative libraries:** ${allFrameworks.join(', ')}
-
----
-
-## Featured Projects
-
-${featuredSection}
-
----
-
-## Architecture Interests
-
-- **Clean Architecture & DDD boundaries** — Domain, Application, Infrastructure, and API layers with explicit contracts
-- **SQL-first persistence** — Stored procedures, idempotent init scripts, and integration tests against real databases
-- **Geospatial product shells** — Mapbox-driven UIs with token management patterns and hierarchical location models
-- **Opt-in integration layers** — Healthcare Epic/SMART hooks and telephony adapters without breaking baseline POC flows
-- **Edge inference** — Local LLM serving on Jetson with camera capture and streaming chat proxies
-- **Production repo splits** — Separate dev and production clones with deployment guides and secret-free templates
-
----
-
-## Infrastructure & DevOps Experience
-
-- Linux VM deployment (Nginx reverse proxy, systemd, Certbot SSL)
-- Supabase/Postgres migration workflows
-- Cross-platform build/run/test scripts (PowerShell and shell)
-- SQL Server bootstrap, refresh, and environment-specific connection patterns
-- GitHub CLI–driven metadata extraction for sanitized portfolio generation
-- Cursor rules, phased docs, and AI-assisted development workflows
-
----
-
-## Project Catalog
-
-Full case-study index: **[projects/index.md](./projects/index.md)**
-
-${catalogSection}
-
----
-
-## Screenshots & Media
-
-Project-specific media placeholders live under \`assets/projects/<slug>/\`. Add sanitized screenshots there and reference them from each [project page](./projects/index.md).
+${projectLinks}
 
 ---
 
@@ -233,22 +160,6 @@ ${profile.contactNote}
 
 - **GitHub:** [michael-ai-ello](${profile.github})
 - **Portfolio issues:** Use this repo's Issues tab for portfolio inquiries
-
----
-
-## Regenerating This Catalog
-
-Metadata-driven pages can be refreshed from \`portfolio.config.json\`:
-
-\`\`\`bash
-node scripts/generate-portfolio.mjs
-\`\`\`
-
-Private repository source is never copied into this repo by the generator.
-
----
-
-*Last generated from \`portfolio.config.json\`.*
 `;
 }
 

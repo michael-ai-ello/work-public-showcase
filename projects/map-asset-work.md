@@ -62,4 +62,4 @@ scripts/ — Start-MapAsset.ps1/
 
 ---
 
-[← Back to portfolio](../README.md#project-catalog) · [All projects](./index.md)
+[← Back to portfolio](../README.md#projects) · [All projects](./index.md)
