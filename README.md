@@ -4,7 +4,7 @@
 
 ## About
 
-I have an aptitude to learn about and develop web applications that support various contextual environments, scenarios, and situations for various businesses, industries, sectors, and companies. Most repositories here are deliberate POCs (Proofs of Concepts) and learning sandboxes. They aim to demonstrate how I generally would approach and structure full-stack work, with the goal to ramp quickly and adjust for domain-specific networks. Given current work experience and exposure, with a maturing understanding in development operations, Ive grown to respect the variation in standards, security, and integration paths that might exist. 
+I have an aptitude to learn about and develop web applications that support various contextual environments, scenarios, and situations for various businesses, industries, sectors, and companies. Most repositories here are deliberate POCs (Proofs of Concepts) and learning sandboxes. They aim to demonstrate how I generally would approach and structure full-stack work, with the goal to emphasize efficiency, flexibility, and quick adjustments for onboarding to domain-specific networks. Given current work experience and exposure, with a maturing understanding in development operations, Ive grown to respect the variation in standards, security, and integration paths that might exist. 
 
 This repository is a public showcase portfolio, mainly for employers. It summarizes private repos using architecture notes, stack summaries, and sanitized directory overviews — without publishing source code, keys/secrets, or internal configuration.
 
