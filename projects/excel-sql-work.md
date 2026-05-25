@@ -63,4 +63,4 @@ scripts/ — build/run/test/
 
 ---
 
-[← Back to portfolio](../README.md#projects) · [All projects](./index.md)
+[← Back to portfolio](../README.md#projects)

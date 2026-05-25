@@ -63,4 +63,4 @@ prp/ — future product notes/
 
 ---
 
-[← Back to portfolio](../README.md#projects) · [All projects](./index.md)
+[← Back to portfolio](../README.md#projects)

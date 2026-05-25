@@ -58,4 +58,4 @@ dev-resources/ — local JetPack and driver archives (not in git)/
 
 ---
 
-[← Back to portfolio](../README.md#projects) · [All projects](./index.md)
+[← Back to portfolio](../README.md#projects)
