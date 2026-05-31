@@ -32,6 +32,7 @@ For private code access and POC clone as an employer, please request in intervie
 - [Jetson + e-CAM86 Camera](./projects/jetson-orin-nano-econ-cam.md)
 - [Excel SQL](./projects/excel-sql-work.md)
 - [SSMS Work](./projects/ssms-work.md)
+- [Playwright Test](./projects/playwright-test.md)
 
 ---
 
