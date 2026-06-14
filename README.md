@@ -19,6 +19,7 @@ For private code access and POC clone as an employer, please request in intervie
 - [SwimSwam — Production](./projects/swimswam-prod.md)
 - [Aiello Roofing](./projects/aiello-roofing-prod.md)
 - [SwimSwam — Development](./projects/swimswamzzz-dev.md)
+- [Wordddz — Vocabulary & Reading](./projects/worddd.md)
 - [Water Work — Utility](./projects/water-work.md)
 - [Grid Work — Utility](./projects/grid-work.md)
 - [Mapbot Targeting](./projects/mapbot-dev.md)
