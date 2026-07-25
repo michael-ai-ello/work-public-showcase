@@ -22,7 +22,7 @@ For private code access and POC clone as an employer, please request in intervie
 - [Wordddz — Vocabulary & Reading](./projects/worddd.md)
 - [Water Work — Utility](./projects/water-work.md)
 - [Grid Work — Utility](./projects/grid-work.md)
-- [Mapbot Targeting](./projects/mapbot-dev.md)
+- [PsyOps Intelligence](./projects/psyops-intelligence-poc.md)
 - [Map Asset](./projects/map-asset-work.md)
 - [Healthcare Patient Quiz/Education](./projects/HHC-Patient-Education-POC.md)
 - [Healthcare IT Field Services](./projects/HHC-IT-FieldServices-Work-POC.md)

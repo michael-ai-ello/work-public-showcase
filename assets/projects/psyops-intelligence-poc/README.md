@@ -1,4 +1,4 @@
-# Media placeholders — Mapbot — Geospatial Application
+# Media placeholders — PsyOps Intelligence — Operational POC
 
 Add sanitized screenshots here:
 
