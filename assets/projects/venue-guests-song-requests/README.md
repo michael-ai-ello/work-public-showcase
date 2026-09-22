@@ -1,7 +1,7 @@
-﻿# Media placeholders — Venue Guest Playlist — Song Request Ops
+﻿# Media - Venue Guest Playlist - Song Request Ops
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Primary UI
+- `screenshot-architecture.png` - Architecture / diagram
+- `screenshot-secondary.png` - Secondary flow

@@ -55,13 +55,17 @@ tests/ — automated coverage/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/venue-guests-song-requests/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/venue-guests-song-requests/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/venue-guests-song-requests/screenshot-secondary.png` |
+![Primary UI](../assets/projects/venue-guests-song-requests/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/venue-guests-song-requests/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/venue-guests-song-requests/screenshot-secondary.png)
 
 ---
 

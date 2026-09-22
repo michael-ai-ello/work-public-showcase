@@ -48,13 +48,17 @@ dev-resources/ — local JetPack and driver archives (not in git)/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Jetson + camera module
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/jetson-orin-nano-econ-cam/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/jetson-orin-nano-econ-cam/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/jetson-orin-nano-econ-cam/screenshot-secondary.png` |
+![Jetson + camera module](../assets/projects/jetson-orin-nano-econ-cam/screenshot-primary.png)
+
+### Camera bring-up hardware
+
+![Camera bring-up hardware](../assets/projects/jetson-orin-nano-econ-cam/screenshot-architecture.png)
+
+### Device detail
+
+![Device detail](../assets/projects/jetson-orin-nano-econ-cam/screenshot-secondary.png)
 
 ---
 

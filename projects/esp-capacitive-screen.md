@@ -57,13 +57,17 @@ assets/ui/ — wallpaper sources for SD/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Hardware bring-up
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/esp-capacitive-screen/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/esp-capacitive-screen/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/esp-capacitive-screen/screenshot-secondary.png` |
+![Hardware bring-up](../assets/projects/esp-capacitive-screen/screenshot-primary.png)
+
+### Screen assembly
+
+![Screen assembly](../assets/projects/esp-capacitive-screen/screenshot-architecture.png)
+
+### Device detail
+
+![Device detail](../assets/projects/esp-capacitive-screen/screenshot-secondary.png)
 
 ---
 

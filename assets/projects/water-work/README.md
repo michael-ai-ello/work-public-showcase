@@ -1,7 +1,6 @@
-# Media placeholders — Water Work — Utility Geospatial Digital Twin
+﻿# Media - Water Work - Utility Geospatial Digital Twin
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Primary UI
+- `screenshot-architecture.png` - Architecture / diagram

@@ -52,13 +52,29 @@ scripts/ — Start-MapAsset.ps1/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/map-asset-work/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/map-asset-work/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/map-asset-work/screenshot-secondary.png` |
+![Primary UI](../assets/projects/map-asset-work/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/map-asset-work/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/map-asset-work/screenshot-secondary.png)
+
+### Additional view 04
+
+![Additional view 04](../assets/projects/map-asset-work/screenshot-04.png)
+
+### Additional view 05
+
+![Additional view 05](../assets/projects/map-asset-work/screenshot-05.png)
+
+### Additional view 06
+
+![Additional view 06](../assets/projects/map-asset-work/screenshot-06.png)
 
 ---
 

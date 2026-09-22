@@ -58,13 +58,13 @@ scripts/ — build, run, test, db, verify/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Learning Lab
 
-| View | Placeholder |
-|------|-------------|
-| Learning Lab | `assets/projects/playwright-test/screenshot-primary.png` |
-| Scraper Workbench | `assets/projects/playwright-test/screenshot-architecture.png` |
-| E2E / MCP workflow | `assets/projects/playwright-test/screenshot-secondary.png` |
+![Learning Lab](../assets/projects/playwright-test/screenshot-primary.png)
+
+### Scraper Workbench
+
+![Scraper Workbench](../assets/projects/playwright-test/screenshot-architecture.png)
 
 ---
 

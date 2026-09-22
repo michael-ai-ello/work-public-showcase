@@ -62,13 +62,25 @@ vectors/ — local vector data (gitignored)/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/netl-poc/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/netl-poc/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/netl-poc/screenshot-secondary.png` |
+![Primary UI](../assets/projects/netl-poc/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/netl-poc/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/netl-poc/screenshot-secondary.png)
+
+### Additional view 04
+
+![Additional view 04](../assets/projects/netl-poc/screenshot-04.png)
+
+### Additional view 05
+
+![Additional view 05](../assets/projects/netl-poc/screenshot-05.png)
 
 ---
 

@@ -53,13 +53,25 @@ src/delivery-ui/ — public SPA/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/cms-basics-poc/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/cms-basics-poc/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/cms-basics-poc/screenshot-secondary.png` |
+![Primary UI](../assets/projects/cms-basics-poc/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/cms-basics-poc/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/cms-basics-poc/screenshot-secondary.png)
+
+### Additional view 04
+
+![Additional view 04](../assets/projects/cms-basics-poc/screenshot-04.png)
+
+### Additional view 05
+
+![Additional view 05](../assets/projects/cms-basics-poc/screenshot-05.png)
 
 ---
 

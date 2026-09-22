@@ -64,13 +64,49 @@ tests/ — unit, integration, and Playwright E2E/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/psyops-intelligence-poc/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/psyops-intelligence-poc/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/psyops-intelligence-poc/screenshot-secondary.png` |
+![Primary UI](../assets/projects/psyops-intelligence-poc/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/psyops-intelligence-poc/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/psyops-intelligence-poc/screenshot-secondary.png)
+
+### Additional view 04
+
+![Additional view 04](../assets/projects/psyops-intelligence-poc/screenshot-04.png)
+
+### Additional view 05
+
+![Additional view 05](../assets/projects/psyops-intelligence-poc/screenshot-05.png)
+
+### Additional view 06
+
+![Additional view 06](../assets/projects/psyops-intelligence-poc/screenshot-06.png)
+
+### Additional view 07
+
+![Additional view 07](../assets/projects/psyops-intelligence-poc/screenshot-07.png)
+
+### Additional view 08
+
+![Additional view 08](../assets/projects/psyops-intelligence-poc/screenshot-08.png)
+
+### Additional view 09
+
+![Additional view 09](../assets/projects/psyops-intelligence-poc/screenshot-09.png)
+
+### Additional view 10
+
+![Additional view 10](../assets/projects/psyops-intelligence-poc/screenshot-10.png)
+
+### Additional view 11
+
+![Additional view 11](../assets/projects/psyops-intelligence-poc/screenshot-11.png)
 
 ---
 

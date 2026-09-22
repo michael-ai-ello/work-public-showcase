@@ -58,13 +58,29 @@ scripts/ — browser open helpers, wasm copy, seed/reset notes/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/OurSquad/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/OurSquad/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/OurSquad/screenshot-secondary.png` |
+![Primary UI](../assets/projects/OurSquad/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/OurSquad/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/OurSquad/screenshot-secondary.png)
+
+### Additional view 04
+
+![Additional view 04](../assets/projects/OurSquad/screenshot-04.png)
+
+### Additional view 05
+
+![Additional view 05](../assets/projects/OurSquad/screenshot-05.png)
+
+### Additional view 06
+
+![Additional view 06](../assets/projects/OurSquad/screenshot-06.png)
 
 ---
 

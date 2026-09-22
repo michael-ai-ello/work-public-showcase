@@ -53,13 +53,13 @@ MarkdownAssist/ — doc tooling/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/water-work/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/water-work/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/water-work/screenshot-secondary.png` |
+![Primary UI](../assets/projects/water-work/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/water-work/screenshot-architecture.png)
 
 ---
 

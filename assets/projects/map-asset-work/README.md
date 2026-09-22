@@ -1,7 +1,10 @@
-# Media placeholders — Map Asset — Floor Plan Asset Tracking
+﻿# Media - Map Asset - Floor Plan Asset Tracking
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Primary UI
+- `screenshot-architecture.png` - Architecture / diagram
+- `screenshot-secondary.png` - Secondary flow
+- `screenshot-04.png` - Additional view 04
+- `screenshot-05.png` - Additional view 05
+- `screenshot-06.png` - Additional view 06

@@ -1,7 +1,7 @@
-﻿# Media placeholders — ESP32-CAM Motion Detector
+﻿# Media - ESP32-CAM Motion Detector
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Primary UI
+- `screenshot-architecture.png` - Architecture / diagram
+- `screenshot-secondary.png` - Secondary flow

@@ -1,7 +1,7 @@
-# Media placeholders — Jetson + e-CAM86 Camera Bring-Up
+﻿# Media - Jetson + e-CAM86 Camera Bring-Up
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Jetson + camera module
+- `screenshot-architecture.png` - Camera bring-up hardware
+- `screenshot-secondary.png` - Device detail

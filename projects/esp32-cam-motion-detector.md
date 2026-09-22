@@ -56,13 +56,17 @@ tests/ — phase gates (compile + on-device where applicable)/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Primary UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/esp32-cam-motion-detector/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/esp32-cam-motion-detector/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/esp32-cam-motion-detector/screenshot-secondary.png` |
+![Primary UI](../assets/projects/esp32-cam-motion-detector/screenshot-primary.png)
+
+### Architecture / diagram
+
+![Architecture / diagram](../assets/projects/esp32-cam-motion-detector/screenshot-architecture.png)
+
+### Secondary flow
+
+![Secondary flow](../assets/projects/esp32-cam-motion-detector/screenshot-secondary.png)
 
 ---
 

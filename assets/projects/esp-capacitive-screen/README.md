@@ -1,7 +1,7 @@
-﻿# Media placeholders — ESP32 Capacitive Screen — Notes Bring-Up
+﻿# Media - ESP32 Capacitive Screen - Notes Bring-Up
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Hardware bring-up
+- `screenshot-architecture.png` - Screen assembly
+- `screenshot-secondary.png` - Device detail

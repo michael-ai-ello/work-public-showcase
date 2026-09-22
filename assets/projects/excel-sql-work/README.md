@@ -1,7 +1,9 @@
-# Media placeholders — Excel SQL — Blazor Data Tooling POC
+﻿# Media - Excel SQL - Blazor Data Tooling POC
 
-Add sanitized screenshots here:
+Sanitized screenshots for this project:
 
-- `screenshot-primary.png`
-- `screenshot-architecture.png`
-- `screenshot-secondary.png`
+- `screenshot-primary.png` - Primary UI
+- `screenshot-architecture.png` - Architecture / diagram
+- `screenshot-secondary.png` - Secondary flow
+- `screenshot-04.png` - Additional view 04
+- `screenshot-05.png` - Additional view 05

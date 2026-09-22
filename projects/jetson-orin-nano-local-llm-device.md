@@ -52,13 +52,17 @@ docs/ — hardware references/
 
 ## Screenshots / Media
 
-<!-- Replace placeholders with sanitized screenshots when ready -->
+### Local LLM chat UI
 
-| View | Placeholder |
-|------|-------------|
-| Primary UI | `assets/projects/jetson-orin-nano-local-llm-device/screenshot-primary.png` |
-| Architecture / diagram | `assets/projects/jetson-orin-nano-local-llm-device/screenshot-architecture.png` |
-| Secondary flow | `assets/projects/jetson-orin-nano-local-llm-device/screenshot-secondary.png` |
+![Local LLM chat UI](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-primary.png)
+
+### Jetson Orin Nano hardware
+
+![Jetson Orin Nano hardware](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-architecture.png)
+
+### Device detail
+
+![Device detail](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-secondary.png)
 
 ---
 
