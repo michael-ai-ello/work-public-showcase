@@ -55,17 +55,19 @@ tests/ — automated coverage/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/venue-guests-song-requests/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/venue-guests-song-requests/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/venue-guests-song-requests/screenshot-architecture.png)
+### Screenshot 2
 
-### Secondary flow
+![Screenshot 2](../assets/projects/venue-guests-song-requests/screenshot-architecture.png)
 
-![Secondary flow](../assets/projects/venue-guests-song-requests/screenshot-secondary.png)
+### Screenshot 3
+
+![Screenshot 3](../assets/projects/venue-guests-song-requests/screenshot-secondary.png)
 
 ---
 

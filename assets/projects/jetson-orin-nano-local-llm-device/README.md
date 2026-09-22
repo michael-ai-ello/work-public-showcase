@@ -1,7 +1,7 @@
-﻿# Media - Jetson Local LLM Device
+# Media - Jetson Local LLM Device
 
-Sanitized screenshots for this project:
+Example screenshots showing areas of the application:
 
-- `screenshot-primary.png` - Local LLM chat UI
-- `screenshot-architecture.png` - Jetson Orin Nano hardware
-- `screenshot-secondary.png` - Device detail
+- `screenshot-primary.png` - Screenshot 1
+- `screenshot-architecture.png` - Screenshot 2
+- `screenshot-secondary.png` - Screenshot 3

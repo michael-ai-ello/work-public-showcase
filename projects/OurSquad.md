@@ -58,29 +58,31 @@ scripts/ — browser open helpers, wasm copy, seed/reset notes/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/OurSquad/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/OurSquad/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/OurSquad/screenshot-architecture.png)
+### Screenshot 2
 
-### Secondary flow
+![Screenshot 2](../assets/projects/OurSquad/screenshot-architecture.png)
 
-![Secondary flow](../assets/projects/OurSquad/screenshot-secondary.png)
+### Screenshot 3
 
-### Additional view 04
+![Screenshot 3](../assets/projects/OurSquad/screenshot-secondary.png)
 
-![Additional view 04](../assets/projects/OurSquad/screenshot-04.png)
+### Screenshot 4
 
-### Additional view 05
+![Screenshot 4](../assets/projects/OurSquad/screenshot-04.png)
 
-![Additional view 05](../assets/projects/OurSquad/screenshot-05.png)
+### Screenshot 5
 
-### Additional view 06
+![Screenshot 5](../assets/projects/OurSquad/screenshot-05.png)
 
-![Additional view 06](../assets/projects/OurSquad/screenshot-06.png)
+### Screenshot 6
+
+![Screenshot 6](../assets/projects/OurSquad/screenshot-06.png)
 
 ---
 

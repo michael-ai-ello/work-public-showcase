@@ -53,41 +53,43 @@ sql/ — database assets/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/aphmorism-poc/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/aphmorism-poc/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/aphmorism-poc/screenshot-architecture.png)
+### Screenshot 2
 
-### Secondary flow
+![Screenshot 2](../assets/projects/aphmorism-poc/screenshot-architecture.png)
 
-![Secondary flow](../assets/projects/aphmorism-poc/screenshot-secondary.png)
+### Screenshot 3
 
-### Additional view 04
+![Screenshot 3](../assets/projects/aphmorism-poc/screenshot-secondary.png)
 
-![Additional view 04](../assets/projects/aphmorism-poc/screenshot-04.png)
+### Screenshot 4
 
-### Additional view 05
+![Screenshot 4](../assets/projects/aphmorism-poc/screenshot-04.png)
 
-![Additional view 05](../assets/projects/aphmorism-poc/screenshot-05.png)
+### Screenshot 5
 
-### Additional view 06
+![Screenshot 5](../assets/projects/aphmorism-poc/screenshot-05.png)
 
-![Additional view 06](../assets/projects/aphmorism-poc/screenshot-06.png)
+### Screenshot 6
 
-### Additional view 07
+![Screenshot 6](../assets/projects/aphmorism-poc/screenshot-06.png)
 
-![Additional view 07](../assets/projects/aphmorism-poc/screenshot-07.png)
+### Screenshot 7
 
-### Additional view 08
+![Screenshot 7](../assets/projects/aphmorism-poc/screenshot-07.png)
 
-![Additional view 08](../assets/projects/aphmorism-poc/screenshot-08.png)
+### Screenshot 8
 
-### Additional view 09
+![Screenshot 8](../assets/projects/aphmorism-poc/screenshot-08.png)
 
-![Additional view 09](../assets/projects/aphmorism-poc/screenshot-09.png)
+### Screenshot 9
+
+![Screenshot 9](../assets/projects/aphmorism-poc/screenshot-09.png)
 
 ---
 

@@ -48,17 +48,19 @@ dev-resources/ — local JetPack and driver archives (not in git)/
 
 ## Screenshots / Media
 
-### Jetson + camera module
+Example views from the application:
 
-![Jetson + camera module](../assets/projects/jetson-orin-nano-econ-cam/screenshot-primary.png)
+### Screenshot 1
 
-### Camera bring-up hardware
+![Screenshot 1](../assets/projects/jetson-orin-nano-econ-cam/screenshot-primary.png)
 
-![Camera bring-up hardware](../assets/projects/jetson-orin-nano-econ-cam/screenshot-architecture.png)
+### Screenshot 2
 
-### Device detail
+![Screenshot 2](../assets/projects/jetson-orin-nano-econ-cam/screenshot-architecture.png)
 
-![Device detail](../assets/projects/jetson-orin-nano-econ-cam/screenshot-secondary.png)
+### Screenshot 3
+
+![Screenshot 3](../assets/projects/jetson-orin-nano-econ-cam/screenshot-secondary.png)
 
 ---
 

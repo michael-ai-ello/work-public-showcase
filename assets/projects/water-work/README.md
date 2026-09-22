@@ -1,6 +1,6 @@
-﻿# Media - Water Work - Utility Geospatial Digital Twin
+# Media - Water Work - Utility Geospatial Digital Twin
 
-Sanitized screenshots for this project:
+Example screenshots showing areas of the application:
 
-- `screenshot-primary.png` - Primary UI
-- `screenshot-architecture.png` - Architecture / diagram
+- `screenshot-primary.png` - Screenshot 1
+- `screenshot-architecture.png` - Screenshot 2

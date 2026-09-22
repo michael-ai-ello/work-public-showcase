@@ -52,17 +52,19 @@ docs/ — hardware references/
 
 ## Screenshots / Media
 
-### Local LLM chat UI
+Example views from the application:
 
-![Local LLM chat UI](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-primary.png)
+### Screenshot 1
 
-### Jetson Orin Nano hardware
+![Screenshot 1](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-primary.png)
 
-![Jetson Orin Nano hardware](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-architecture.png)
+### Screenshot 2
 
-### Device detail
+![Screenshot 2](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-architecture.png)
 
-![Device detail](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-secondary.png)
+### Screenshot 3
+
+![Screenshot 3](../assets/projects/jetson-orin-nano-local-llm-device/screenshot-secondary.png)
 
 ---
 

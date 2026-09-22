@@ -1,7 +1,7 @@
-﻿# Media - Venue Guest Playlist - Song Request Ops
+# Media - Venue Guest Playlist - Song Request Ops
 
-Sanitized screenshots for this project:
+Example screenshots showing areas of the application:
 
-- `screenshot-primary.png` - Primary UI
-- `screenshot-architecture.png` - Architecture / diagram
-- `screenshot-secondary.png` - Secondary flow
+- `screenshot-primary.png` - Screenshot 1
+- `screenshot-architecture.png` - Screenshot 2
+- `screenshot-secondary.png` - Screenshot 3

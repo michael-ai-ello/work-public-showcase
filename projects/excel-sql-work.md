@@ -53,25 +53,27 @@ scripts/ — build/run/test/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/excel-sql-work/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/excel-sql-work/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/excel-sql-work/screenshot-architecture.png)
+### Screenshot 2
 
-### Secondary flow
+![Screenshot 2](../assets/projects/excel-sql-work/screenshot-architecture.png)
 
-![Secondary flow](../assets/projects/excel-sql-work/screenshot-secondary.png)
+### Screenshot 3
 
-### Additional view 04
+![Screenshot 3](../assets/projects/excel-sql-work/screenshot-secondary.png)
 
-![Additional view 04](../assets/projects/excel-sql-work/screenshot-04.png)
+### Screenshot 4
 
-### Additional view 05
+![Screenshot 4](../assets/projects/excel-sql-work/screenshot-04.png)
 
-![Additional view 05](../assets/projects/excel-sql-work/screenshot-05.png)
+### Screenshot 5
+
+![Screenshot 5](../assets/projects/excel-sql-work/screenshot-05.png)
 
 ---
 

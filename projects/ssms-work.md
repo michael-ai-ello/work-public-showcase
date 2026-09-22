@@ -53,41 +53,43 @@ db/ — refresh scripts/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/ssms-work/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/ssms-work/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/ssms-work/screenshot-architecture.png)
+### Screenshot 2
 
-### Secondary flow
+![Screenshot 2](../assets/projects/ssms-work/screenshot-architecture.png)
 
-![Secondary flow](../assets/projects/ssms-work/screenshot-secondary.png)
+### Screenshot 3
 
-### Additional view 04
+![Screenshot 3](../assets/projects/ssms-work/screenshot-secondary.png)
 
-![Additional view 04](../assets/projects/ssms-work/screenshot-04.png)
+### Screenshot 4
 
-### Additional view 05
+![Screenshot 4](../assets/projects/ssms-work/screenshot-04.png)
 
-![Additional view 05](../assets/projects/ssms-work/screenshot-05.png)
+### Screenshot 5
 
-### Additional view 06
+![Screenshot 5](../assets/projects/ssms-work/screenshot-05.png)
 
-![Additional view 06](../assets/projects/ssms-work/screenshot-06.png)
+### Screenshot 6
 
-### Additional view 07
+![Screenshot 6](../assets/projects/ssms-work/screenshot-06.png)
 
-![Additional view 07](../assets/projects/ssms-work/screenshot-07.png)
+### Screenshot 7
 
-### Additional view 08
+![Screenshot 7](../assets/projects/ssms-work/screenshot-07.png)
 
-![Additional view 08](../assets/projects/ssms-work/screenshot-08.png)
+### Screenshot 8
 
-### Additional view 09
+![Screenshot 8](../assets/projects/ssms-work/screenshot-08.png)
 
-![Additional view 09](../assets/projects/ssms-work/screenshot-09.png)
+### Screenshot 9
+
+![Screenshot 9](../assets/projects/ssms-work/screenshot-09.png)
 
 ---
 

@@ -57,17 +57,19 @@ assets/ui/ — wallpaper sources for SD/
 
 ## Screenshots / Media
 
-### Hardware bring-up
+Example views from the application:
 
-![Hardware bring-up](../assets/projects/esp-capacitive-screen/screenshot-primary.png)
+### Screenshot 1
 
-### Screen assembly
+![Screenshot 1](../assets/projects/esp-capacitive-screen/screenshot-primary.png)
 
-![Screen assembly](../assets/projects/esp-capacitive-screen/screenshot-architecture.png)
+### Screenshot 2
 
-### Device detail
+![Screenshot 2](../assets/projects/esp-capacitive-screen/screenshot-architecture.png)
 
-![Device detail](../assets/projects/esp-capacitive-screen/screenshot-secondary.png)
+### Screenshot 3
+
+![Screenshot 3](../assets/projects/esp-capacitive-screen/screenshot-secondary.png)
 
 ---
 

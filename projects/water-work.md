@@ -53,13 +53,15 @@ MarkdownAssist/ — doc tooling/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/water-work/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/water-work/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/water-work/screenshot-architecture.png)
+### Screenshot 2
+
+![Screenshot 2](../assets/projects/water-work/screenshot-architecture.png)
 
 ---
 

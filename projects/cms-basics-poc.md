@@ -53,25 +53,27 @@ src/delivery-ui/ — public SPA/
 
 ## Screenshots / Media
 
-### Primary UI
+Example views from the application:
 
-![Primary UI](../assets/projects/cms-basics-poc/screenshot-primary.png)
+### Screenshot 1
 
-### Architecture / diagram
+![Screenshot 1](../assets/projects/cms-basics-poc/screenshot-primary.png)
 
-![Architecture / diagram](../assets/projects/cms-basics-poc/screenshot-architecture.png)
+### Screenshot 2
 
-### Secondary flow
+![Screenshot 2](../assets/projects/cms-basics-poc/screenshot-architecture.png)
 
-![Secondary flow](../assets/projects/cms-basics-poc/screenshot-secondary.png)
+### Screenshot 3
 
-### Additional view 04
+![Screenshot 3](../assets/projects/cms-basics-poc/screenshot-secondary.png)
 
-![Additional view 04](../assets/projects/cms-basics-poc/screenshot-04.png)
+### Screenshot 4
 
-### Additional view 05
+![Screenshot 4](../assets/projects/cms-basics-poc/screenshot-04.png)
 
-![Additional view 05](../assets/projects/cms-basics-poc/screenshot-05.png)
+### Screenshot 5
+
+![Screenshot 5](../assets/projects/cms-basics-poc/screenshot-05.png)
 
 ---
 

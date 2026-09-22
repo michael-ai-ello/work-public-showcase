@@ -58,13 +58,15 @@ scripts/ — build, run, test, db, verify/
 
 ## Screenshots / Media
 
-### Learning Lab
+Example views from the application:
 
-![Learning Lab](../assets/projects/playwright-test/screenshot-primary.png)
+### Screenshot 1
 
-### Scraper Workbench
+![Screenshot 1](../assets/projects/playwright-test/screenshot-primary.png)
 
-![Scraper Workbench](../assets/projects/playwright-test/screenshot-architecture.png)
+### Screenshot 2
+
+![Screenshot 2](../assets/projects/playwright-test/screenshot-architecture.png)
 
 ---
 
